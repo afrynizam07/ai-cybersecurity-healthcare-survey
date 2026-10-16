@@ -91,7 +91,7 @@ Professionals see AI as important, but results are not yet consistently felt. Th
 ## 📄 Documentation
 
 - [Project presentation (pptx)](docs/ai-cybersecurity-presentation.pptx)
-- [Research report extract (docx)](docs/ai-cybersecurity-report-extract.docx)
+- [Research report extract (docx)](docs/cybersecurity-report-extract.docx)
 
 ## 📂 Repository Contents
 
